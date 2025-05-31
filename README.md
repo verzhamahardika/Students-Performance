@@ -154,7 +154,7 @@ Note: Tabel ini membantu pengguna melakukan drill-down atau investigasi lebih de
 - Gender tampaknya memengaruhi status mahasiswa, dengan laki-laki memiliki lebih banyak kelulusan namun juga dropout yang tinggi.
 - Beberapa program studi memiliki jumlah dropout yang cukup signifikan, bisa menjadi titik fokus evaluasi kualitas pengajaran atau kurikulum.
 
-![alt text](verzhamahardika-dashboard.png>)
+![alt text](verzhamahardika-dashboard.png)
 
 Link Dashboard: [Students Performance](https://lookerstudio.google.com/reporting/33502c4b-3f10-4669-90fa-0be5acf98d0d)
 
